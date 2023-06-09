@@ -20,6 +20,7 @@ The Urdu CSV dataset used for training the model should be placed in the root di
 
 ```shell
 pip install -r requirements.txt
+```
 
 2.Run the `train.py` script to train the paraphrase model:
 

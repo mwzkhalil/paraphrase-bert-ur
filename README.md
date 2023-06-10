@@ -4,11 +4,11 @@ This repository contains code for training a paraphrase model on a Urdu CSV data
 
 ## Requirements
 
-- torch==1.9.0
-- torchvision==0.10.0
-- pandas==1.3.0
-- scikit-learn==0.24.2
-- transformers==4.11.3
+- torch
+- torchvision
+- pandas
+- scikit-learn
+- transformers
 
 ## Dataset
 
